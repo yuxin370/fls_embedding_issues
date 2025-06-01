@@ -16,7 +16,7 @@ Here:
 * `all_embeddings_rgb_columns.csv` represents each image’s embedding as three columns (one per R, G, and B channel); it is the result of concatenating embeddings from 633 images.
 * All values are of type `float`.
 
-Both of these files encounter the following error when compressed:
+Both of these files encounter the following error when compressing:
 
 For `all_embeddings_columns.csv`:
 
